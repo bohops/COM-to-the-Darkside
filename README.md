@@ -1,2 +1,2 @@
 # COM to the Darkside
-Slides and things from said talk/research with Dylan Tran
+Slides and resources from MCTTP 2025 Talk by Dylan Tran (d_tranman) and Jimmy Bayne (@bohops)
